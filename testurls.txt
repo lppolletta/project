@@ -1,0 +1,9 @@
+http://localhost:8082/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+
+http://localhost:8082/filteredimage?image_url=https://res.cloudinary.com/demo/image/upload/seagull.jpg
+
+http://localhost:8082/filteredimage?image_url=https://wallpapersdsc.net/wp-content/uploads/2016/09/Passion-Flower-Pictures.jpg
+
+http://localhost:8082/filteredimage?image_url=https://www.paws.org/wp-content/uploads/2019/08/20180419-DSC_1704-1024x687.jpg
+
+http://localhost:8082/filteredimage?image_url=https://static01.nyt.com/images/2021/07/14/world/14eu-climate-01/14eu-climate-01-superJumbo.jpg
